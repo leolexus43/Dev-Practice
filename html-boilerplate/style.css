@@ -5,6 +5,7 @@
     margin-bottom: 30px;
     border: 5px solid pink;
     font-family: cursive;
+    color: white;
 }
 
 body {
@@ -32,4 +33,73 @@ body {
 
 html {
     border: 1px solid pink;
+}
+
+.Description {
+    background-color: rgb(247, 229, 236);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.Achievements {
+     background-color: rgb(247, 229, 236);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.Friendships {
+      background-color: rgb(247, 229, 236);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.horse {
+    font-family: cursive;
+}
+
+.blueSpan {
+    color: blue;
+}
+
+.pinkSpan {
+    color: rgb(252, 137, 156);
+}
+
+.redSpan {
+    color: red;
+}
+
+.HaruToHaru {
+    display: flex;
+    width: 300px;
+    justify-content: center;
+    margin: 25px 0px 0px 320px;
+}
+
+.HaruUma {
+ display: flex;
+    width: 300px;
+    height: 250px;
+    justify-content: center;
+    margin: 25px 0px 0px 320px;
+}
+
+.HaruMusume {
+ display: flex;
+    width: 200px;
+    height: 250px;
+    justify-content: center;
+    margin: 25px 0px 0px 320px;
+}
+
+.Quotes {
+       background-color: rgb(247, 229, 236);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.TheStrongest {
+        background-color: rgb(247, 229, 236);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
 }
